@@ -44,3 +44,16 @@ input {
     border-radius: 5px;
     margin-bottom: 3px;
 }
+.fa-tash-can {
+    cursor: pointer;
+    color: grey;
+}
+.task-list {
+    font-size: 12px;
+    color: grey;
+}
+.no-tasks {
+    padding: 5px;
+    font-size: 12px;
+    color: grey;
+}
