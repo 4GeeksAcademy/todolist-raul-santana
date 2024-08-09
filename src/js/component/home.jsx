@@ -41,6 +41,7 @@ const Home = () => {
                     ))
                 )}
             </ul>
+            <p className="contador">Tienes {todos.length} productos en tu cesta. </p>
         </div>
     );
 };
